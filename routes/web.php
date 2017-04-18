@@ -11,21 +11,16 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/', function() {
+    return view('index');
+});
+
+Route::get('welcome', function () {
     return view('welcome');
 });
 
 Route::get('about', function() {
    return 'About content goes here.';
-});
-
-Route::get('index', function() {
-    return 'index.html';
-});
-
-Route::get('about/directions/classes/{randomWord}', function($randomWord)
-{
-    return "Content about {$randomWord} classes go here.";
 });
 
 Route::get('cart/get', 'CartController@get');
