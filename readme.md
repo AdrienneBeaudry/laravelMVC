@@ -2,7 +2,7 @@
 
 ## Description
 
-In the spirit of being "a tourist in one's own city", I set out to create a Gothenburg Travel Guide -- for myself, but also for friends, family and acquaintances looking for recommendations. As a first step, because of time restrictions, I focus on 1) a list of restaurants to try; 2) a list of activities to do.
+In the spirit of being "a tourist in one's own city", I set out to create a Gothenburg Travel Guide -- primarily as a list of things to discover for myself, but also for friends, family and acquaintances visiting town. As a first step, because of time restrictions, I focus on 1) a list of restaurants to try; 2) a list of activities to do.
 
 ## Built with:
 - Laravel (PHP framework)
